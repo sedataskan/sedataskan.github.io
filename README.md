@@ -1,2 +1,0 @@
-# snt
-My personal website
